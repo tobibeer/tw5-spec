@@ -14,7 +14,8 @@ The following pattern encodes a desirable implemenatation:
     * `R0100a` each with unique identifiers
 * `R0200` that precisely define what a system should do, e.g.
 * `R0200a` the system should do ...
-* `R0300` but not how, leave that to the solution
+* `R0300` but not how things are to be implemented
+    * `R0300a` leave that to the solution
 
 ## Problem Description
 
