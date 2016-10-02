@@ -1,6 +1,6 @@
 The following pattern encodes a desirable implemenatation:
 
-**User Story**
+## User Story
 
 **As** `<role | persona | stakeholder>`
 
@@ -8,7 +8,7 @@ The following pattern encodes a desirable implemenatation:
 
 **so that** `<why>`
 
-**Acceptance Criteria**
+## Acceptance Criteria
 
 * `R0100` a list of functional and non-functional requirements
     * `R0100a` each with unique identifiers
@@ -16,11 +16,11 @@ The following pattern encodes a desirable implemenatation:
 * `R0200a` the system should do ...
 * `R0300` but not how, leave that to the solution
 
-**Problem Description**
+## Problem Description
 
 Some background, pain points, motives behind a given implementation. An iteration as to why it is wanted and then why that is wanted and then why that is wanted and so forth.
 
-**Suggested Solution**
+## Suggested Solution
 
 A precise, more technical draft of the implementation design and strategy, again with...
 
