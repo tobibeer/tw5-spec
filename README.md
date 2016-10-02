@@ -7,7 +7,7 @@ This repo is an attempt to cast the overall design of a core feature or plugin i
 
 [Epic](Epics.md)
 
-» a bucket for all the possible implementations that make a feature great, for all the conceptually distinct building blocks that, together, make up the feature
+» a bucket for all the possible implementations that make a feature great, for all the conceptually distinct building blocks that, together, make up the feature like [Sections](./Sections)
 
 [User Story](UserStory.md)
 
