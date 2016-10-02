@@ -3,7 +3,9 @@ The following pattern encodes a desirable implemenatation:
 **User Story**
 
 **As** `<role | persona | stakeholder>`
+
 **I want** `<what>`
+
 **so that** `<why>`
 
 **Acceptance Criteria**
